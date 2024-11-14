@@ -1,0 +1,3 @@
+interface RegularUserActions {
+    void viewUserData();
+}
